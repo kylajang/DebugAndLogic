@@ -23,4 +23,4 @@ The two prints showed different values because we initially set the variable to 
 
 1. No, the program did not print the message.
 2. It didn't print because in conditions of the if statement, we wrote (false && true). Both sides of the condition would have to be true in order for the message to print. However, one side of the condition was false, therefore, the message did not print.
-3. 
+3. If I had written a very long, complex block of code, this statement could help me disable certain codes from running without deleting it. It would allow me to be selective of which codes I want to compile/run and which ones I don't.
